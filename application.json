@@ -1,6 +1,22 @@
 {
   "pages": [
     {
+      "id": "Form Maker",
+      "isDefault": false
+    },
+    {
+      "id": "Feedback Form",
+      "isDefault": false
+    },
+    {
+      "id": "Success Page",
+      "isDefault": false
+    },
+    {
+      "id": "Responses",
+      "isDefault": false
+    },
+    {
       "id": "Dashboard",
       "isDefault": true
     },
@@ -17,8 +33,8 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "clonedFromApplicationId": "62e91adc4003a7259a30a40d",
-  "color": "#FFDEDE",
-  "icon": "family",
+  "color": "#F1DEFF",
+  "icon": "arrow-up",
   "unpublishedAppLayout": {
     "type": "DESKTOP"
   },
@@ -26,7 +42,7 @@
     "type": "DESKTOP"
   },
   "evaluationVersion": 2,
-  "applicationVersion": 2,
+  "applicationVersion": 1,
   "forkingEnabled": true,
   "isManualUpdate": false,
   "deleted": false

@@ -4106,7 +4106,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Selected_getCustomer",
               "name": "getCustomer",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -4116,7 +4115,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Selected_getOrderinfo",
               "name": "getOrderinfo",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
